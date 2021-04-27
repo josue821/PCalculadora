@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="num1" type="id" />
+    <item name="num2" type="id" />
+    <item name="suma" type="id" />
+    <item name="resta" type="id" />
+    <item name="mul" type="id" />
+    <item name="div" type="id" />
+</resources>
